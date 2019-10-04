@@ -1,5 +1,2 @@
 Mars is red.
 Mars has 2 moons.
-Mars is small.
-My favourite moon si Phobos.
-
